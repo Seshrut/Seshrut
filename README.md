@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Seshrut<br>👀 I’m interested in Python<br>⭐ Working in Javascript<br>🌱 I’m currently learning Machine Learning<br>👨‍🔧I am working on Devilin<br>📫 How to reach me >-> seshrut@gmail.com
+👋 Hi, I’m @Seshrut<br>👀 I’m interested in Python<br>⭐ Working in Javascript<br>🌱 I’m currently learning Machine Learning<br>👨‍🔧I am working on Devilin and CamPyCad<br>📫 How to reach me >-> seshrut@gmail.com
 
 
 ## 🌐 Socials:
